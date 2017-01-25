@@ -18,6 +18,15 @@ body {
 	margin-bottom:20px;
 }
 
+.footer_image{
+	padding: 0;	
+}
+
+.footer_image img{
+	max-width:100%;
+	width:100%;
+}
+
 #mainDiv {
 	max-width:100%;
 	width:98%;
