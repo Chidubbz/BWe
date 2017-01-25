@@ -31,8 +31,8 @@
     <plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.0" />
     <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1" /-->
     <platform name="android">
-		<icon src="www/img/bwe.ico.png" width="180" height="180" />
-        <icon density="ldpi" src="www/res/icon/android/BWe-ico.png" />
+		<icon density= "ldpi" src="www/img/bwe.ico.png" width="180" height="180" />
+        <!--icon density="ldpi" src="www/res/icon/android/BWe-ico.png" />
         <icon density="ldpi" src="www/res/icon/android/BWeIcon.png" />
         <icon density="ldpi" src="www/res/icon/android/drawable-ldpi-icon.png" />
         <icon density="mdpi" src="www/res/icon/android/drawable-mdpi-icon.png" />
@@ -51,7 +51,7 @@
         <splash density="port-hdpi" src="www/res/screen/android/drawable-port-hdpi-screen.png" />
         <splash density="port-xhdpi" src="www/res/screen/android/drawable-port-xhdpi-screen.png" />
         <splash density="port-xxhdpi" src="www/res/screen/android/drawable-port-xxhdpi-screen.png" />
-        <splash density="port-xxxhdpi" src="www/res/screen/android/drawable-port-xxxhdpi-screen.png" />
+        <splash density="port-xxxhdpi" src="www/res/screen/android/drawable-port-xxxhdpi-screen.png" /-->
     </platform>
     <platform name="ios">
         <icon height="57" platform="ios" src="www/res/icon/ios/icon.png" width="57" />
